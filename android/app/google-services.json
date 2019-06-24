@@ -1,0 +1,55 @@
+{
+    "project_info": {
+      "project_number": "29919233359",
+      "firebase_url": "https://pandal-hopper-2018.firebaseio.com",
+      "project_id": "pandal-hopper-2018",
+      "storage_bucket": "pandal-hopper-2018.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:29919233359:android:44215b5c9bb39048",
+          "android_client_info": {
+            "package_name": "com.rangoli.designs"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "29919233359-ppek8c1273i9d4tgn8actdh7sfkvsdiv.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.rangoli.designs",
+              "certificate_hash": "a02ace4e3a08570c95d3a603cc7f170249f10915"
+            }
+          },
+          {
+            "client_id": "29919233359-mnvabo4np9gov1fqdemiugj1fr0luac6.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAvbcBYTBy5OxIZweknDPfRVnuHGZMRmVY"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 2,
+            "other_platform_oauth_client": [
+              {
+                "client_id": "29919233359-mnvabo4np9gov1fqdemiugj1fr0luac6.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
